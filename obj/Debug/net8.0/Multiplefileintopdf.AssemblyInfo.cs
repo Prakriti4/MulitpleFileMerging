@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multiplefileintopdf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ea9513288b0141abfa11617e8614b3dc069fdbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28f3e7d5438fd047a44473d97b43f90fbb26ac7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multiplefileintopdf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multiplefileintopdf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

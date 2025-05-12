@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dPBqsVNu5R1RCn/Q07D3hi3dO7PR0GO6N1T9GiTdUTk=",
+  "Hash": "+0jH+mx+9tpyrjEekZvooWr9aM9mBaq3c1gJfxTduhM=",
   "Source": "Multiplefileintopdf",
   "BasePath": "_content/Multiplefileintopdf",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Multiplefileintopdf\\wwwroot",
       "Source": "Multiplefileintopdf",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Multiplefileintopdf.styles.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Multiplefileintopdf.styles.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "Multiplefileintopdf#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "yVZQ3qk1xoaGfP7CRQtGkGbkzLq73c12IhfELoAxs8I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Assignment\\Multiplefileintopdf\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Multiplefileintopdf.styles.css"
+      "OriginalItemSpec": "D:\\Assignment\\MulitpleFileMerging\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Multiplefileintopdf.styles.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Multiplefileintopdf.bundle.scp.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Multiplefileintopdf.bundle.scp.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "Multiplefileintopdf#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "yVZQ3qk1xoaGfP7CRQtGkGbkzLq73c12IhfELoAxs8I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Assignment\\Multiplefileintopdf\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Multiplefileintopdf.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Assignment\\MulitpleFileMerging\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Multiplefileintopdf.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\css\\site.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\favicon.ico",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\js\\site.js",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\0414090e-9587-44bf-8fa1-b8a806371d52.pdf",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\0414090e-9587-44bf-8fa1-b8a806371d52.pdf",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "pdf/0414090e-9587-44bf-8fa1-b8a806371d52#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\pdf\\0414090e-9587-44bf-8fa1-b8a806371d52.pdf"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\0dd00dac-83a4-44fc-80e7-ee4cc9744e40.pdf",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\0dd00dac-83a4-44fc-80e7-ee4cc9744e40.pdf",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "pdf/0dd00dac-83a4-44fc-80e7-ee4cc9744e40#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\pdf\\0dd00dac-83a4-44fc-80e7-ee4cc9744e40.pdf"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\0ddb4097-5109-4500-ad06-ea8df2fea298.pdf",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\0ddb4097-5109-4500-ad06-ea8df2fea298.pdf",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "pdf/0ddb4097-5109-4500-ad06-ea8df2fea298#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\pdf\\0ddb4097-5109-4500-ad06-ea8df2fea298.pdf"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\28169ddd-6ad0-4f7f-bdbc-86aef14145b2.pdf",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\28169ddd-6ad0-4f7f-bdbc-86aef14145b2.pdf",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "pdf/28169ddd-6ad0-4f7f-bdbc-86aef14145b2#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\pdf\\28169ddd-6ad0-4f7f-bdbc-86aef14145b2.pdf"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\341a8f6d-4c59-4479-86eb-2148c1b4cc3c.pdf",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\341a8f6d-4c59-4479-86eb-2148c1b4cc3c.pdf",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "pdf/341a8f6d-4c59-4479-86eb-2148c1b4cc3c#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\pdf\\341a8f6d-4c59-4479-86eb-2148c1b4cc3c.pdf"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\347de07b-f8c7-4c75-acd2-82e308c386df.pdf",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\347de07b-f8c7-4c75-acd2-82e308c386df.pdf",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "pdf/347de07b-f8c7-4c75-acd2-82e308c386df#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\pdf\\347de07b-f8c7-4c75-acd2-82e308c386df.pdf"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\67e0b9f7-fa8e-489b-8f93-f781fc4c2e11.pdf",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\67e0b9f7-fa8e-489b-8f93-f781fc4c2e11.pdf",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "pdf/67e0b9f7-fa8e-489b-8f93-f781fc4c2e11#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\pdf\\67e0b9f7-fa8e-489b-8f93-f781fc4c2e11.pdf"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\7affe73a-520a-4d57-943c-3f8312ceb600.pdf",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\7affe73a-520a-4d57-943c-3f8312ceb600.pdf",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "pdf/7affe73a-520a-4d57-943c-3f8312ceb600#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\pdf\\7affe73a-520a-4d57-943c-3f8312ceb600.pdf"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\98f2ac97-81bb-4760-8fbc-67f3d702a800.pdf",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\98f2ac97-81bb-4760-8fbc-67f3d702a800.pdf",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "pdf/98f2ac97-81bb-4760-8fbc-67f3d702a800#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\pdf\\98f2ac97-81bb-4760-8fbc-67f3d702a800.pdf"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\b4056d93-fbdd-4e4e-9f75-21c96ad80403.pdf",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\b4056d93-fbdd-4e4e-9f75-21c96ad80403.pdf",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "pdf/b4056d93-fbdd-4e4e-9f75-21c96ad80403#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\pdf\\b4056d93-fbdd-4e4e-9f75-21c96ad80403.pdf"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\c028670f-0495-4f39-b016-06c4da54d0f7.pdf",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\c028670f-0495-4f39-b016-06c4da54d0f7.pdf",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "pdf/c028670f-0495-4f39-b016-06c4da54d0f7#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\pdf\\c028670f-0495-4f39-b016-06c4da54d0f7.pdf"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\e3067259-0c9e-4e04-8d24-6d15fccb0529.pdf",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\e3067259-0c9e-4e04-8d24-6d15fccb0529.pdf",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "pdf/e3067259-0c9e-4e04-8d24-6d15fccb0529#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\pdf\\e3067259-0c9e-4e04-8d24-6d15fccb0529.pdf"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\f1dc9d33-d0fb-4898-8ea7-465a180eb2cd.pdf",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\f1dc9d33-d0fb-4898-8ea7-465a180eb2cd.pdf",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "pdf/f1dc9d33-d0fb-4898-8ea7-465a180eb2cd#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\pdf\\f1dc9d33-d0fb-4898-8ea7-465a180eb2cd.pdf"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\f7e2a420-1ae2-4696-9aef-6f9fa57f7fe2.pdf",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\f7e2a420-1ae2-4696-9aef-6f9fa57f7fe2.pdf",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "pdf/f7e2a420-1ae2-4696-9aef-6f9fa57f7fe2#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\pdf\\f7e2a420-1ae2-4696-9aef-6f9fa57f7fe2.pdf"
     },
     {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\fe0678bb-9054-4bf7-9394-a30067e9a661.pdf",
+      "Identity": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\fe0678bb-9054-4bf7-9394-a30067e9a661.pdf",
       "SourceId": "Multiplefileintopdf",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
+      "ContentRoot": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\",
       "BasePath": "_content/Multiplefileintopdf",
       "RelativePath": "pdf/fe0678bb-9054-4bf7-9394-a30067e9a661#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1632,243 +1632,12 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\pdf\\fe0678bb-9054-4bf7-9394-a30067e9a661.pdf"
-    },
-    {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\013031a3-d4fe-4636-9e7f-bf0608987c30.jpg",
-      "SourceId": "Multiplefileintopdf",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
-      "BasePath": "_content/Multiplefileintopdf",
-      "RelativePath": "uploads/013031a3-d4fe-4636-9e7f-bf0608987c30#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "1c2262a24y",
-      "Integrity": "UaaPZGRTKEctmRDPl0luj8+PG42Ms+OanBI7FbsJRr0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\013031a3-d4fe-4636-9e7f-bf0608987c30.jpg"
-    },
-    {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\13aba238-1066-420a-8229-25af9c56fa71.pdf",
-      "SourceId": "Multiplefileintopdf",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
-      "BasePath": "_content/Multiplefileintopdf",
-      "RelativePath": "uploads/13aba238-1066-420a-8229-25af9c56fa71#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "3fhc0kacr8",
-      "Integrity": "0aw1/FerSkLVt0/hZyyPpzHjhwcoDSJ29Ceqv+Nad4c=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\13aba238-1066-420a-8229-25af9c56fa71.pdf"
-    },
-    {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\1d2ee9cd-4d09-4da5-8fc9-0387bc78bcf7\\mytable_merged.pdf",
-      "SourceId": "Multiplefileintopdf",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
-      "BasePath": "_content/Multiplefileintopdf",
-      "RelativePath": "uploads/1d2ee9cd-4d09-4da5-8fc9-0387bc78bcf7/mytable_merged#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "0bhz5f0cal",
-      "Integrity": "XAPS76zQ9Y9TmbguXgt3z2y1gjZklIJSZEDo6bNG7yU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\1d2ee9cd-4d09-4da5-8fc9-0387bc78bcf7\\mytable_merged.pdf"
-    },
-    {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\23a34d2b-b24f-4fa9-9dbd-bdcab00921c0.jpg",
-      "SourceId": "Multiplefileintopdf",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
-      "BasePath": "_content/Multiplefileintopdf",
-      "RelativePath": "uploads/23a34d2b-b24f-4fa9-9dbd-bdcab00921c0#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "1c2262a24y",
-      "Integrity": "UaaPZGRTKEctmRDPl0luj8+PG42Ms+OanBI7FbsJRr0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\23a34d2b-b24f-4fa9-9dbd-bdcab00921c0.jpg"
-    },
-    {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\4ed7ca66-9287-4d54-92e6-223ddc88dd21.jpg",
-      "SourceId": "Multiplefileintopdf",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
-      "BasePath": "_content/Multiplefileintopdf",
-      "RelativePath": "uploads/4ed7ca66-9287-4d54-92e6-223ddc88dd21#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "1c2262a24y",
-      "Integrity": "UaaPZGRTKEctmRDPl0luj8+PG42Ms+OanBI7FbsJRr0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\4ed7ca66-9287-4d54-92e6-223ddc88dd21.jpg"
-    },
-    {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\6660abf9-56b9-473a-8bc0-7623bd495c6b.pdf",
-      "SourceId": "Multiplefileintopdf",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
-      "BasePath": "_content/Multiplefileintopdf",
-      "RelativePath": "uploads/6660abf9-56b9-473a-8bc0-7623bd495c6b#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "v79irmwo6k",
-      "Integrity": "KxJZNNA1rKR+9IfeT1vMDpYEMN0jXmcCWrvNx36gYn0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\6660abf9-56b9-473a-8bc0-7623bd495c6b.pdf"
-    },
-    {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\76ffe46a-a881-43bc-8592-73e726f2b703.pdf",
-      "SourceId": "Multiplefileintopdf",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
-      "BasePath": "_content/Multiplefileintopdf",
-      "RelativePath": "uploads/76ffe46a-a881-43bc-8592-73e726f2b703#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "zcxcofhiwz",
-      "Integrity": "HYgz8Su6p3zDT3O83UkUIEJ+Oyz74vJk5Mx756oTBmU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\76ffe46a-a881-43bc-8592-73e726f2b703.pdf"
-    },
-    {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\87a32ac2-6b7d-4c38-8f9c-84cc8ad50a55\\mytable_merged.pdf",
-      "SourceId": "Multiplefileintopdf",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
-      "BasePath": "_content/Multiplefileintopdf",
-      "RelativePath": "uploads/87a32ac2-6b7d-4c38-8f9c-84cc8ad50a55/mytable_merged#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "0bhz5f0cal",
-      "Integrity": "XAPS76zQ9Y9TmbguXgt3z2y1gjZklIJSZEDo6bNG7yU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\87a32ac2-6b7d-4c38-8f9c-84cc8ad50a55\\mytable_merged.pdf"
-    },
-    {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\8fb5917c-4c9f-4dd4-a2f5-b6b67f7f3a6b.pdf",
-      "SourceId": "Multiplefileintopdf",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
-      "BasePath": "_content/Multiplefileintopdf",
-      "RelativePath": "uploads/8fb5917c-4c9f-4dd4-a2f5-b6b67f7f3a6b#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "v79irmwo6k",
-      "Integrity": "KxJZNNA1rKR+9IfeT1vMDpYEMN0jXmcCWrvNx36gYn0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\8fb5917c-4c9f-4dd4-a2f5-b6b67f7f3a6b.pdf"
-    },
-    {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\9d7ed5d7-d409-40a3-9de1-3caf99169a4b\\hello_merged.pdf",
-      "SourceId": "Multiplefileintopdf",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
-      "BasePath": "_content/Multiplefileintopdf",
-      "RelativePath": "uploads/9d7ed5d7-d409-40a3-9de1-3caf99169a4b/hello_merged#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "sjijxfrs6c",
-      "Integrity": "qPG2rrPVcT5wmqmr9jnvnusutKiwc28V64tJ+cUA4Rw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\9d7ed5d7-d409-40a3-9de1-3caf99169a4b\\hello_merged.pdf"
-    },
-    {
-      "Identity": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\b9200695-d9fb-4a0f-9f0b-54af5613c735.pdf",
-      "SourceId": "Multiplefileintopdf",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\",
-      "BasePath": "_content/Multiplefileintopdf",
-      "RelativePath": "uploads/b9200695-d9fb-4a0f-9f0b-54af5613c735#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "5til61lncn",
-      "Integrity": "eczfIDR1mfpr0G3pap7xyDrsn/a/IPJFRxv5R9WHMHw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\b9200695-d9fb-4a0f-9f0b-54af5613c735.pdf"
     }
   ],
   "Endpoints": [
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1913,7 +1682,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1950,7 +1719,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1995,7 +1764,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2032,7 +1801,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2069,7 +1838,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2114,7 +1883,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2151,7 +1920,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2196,7 +1965,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2233,7 +2002,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2278,7 +2047,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2315,7 +2084,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2360,7 +2129,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2397,7 +2166,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2442,7 +2211,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2479,7 +2248,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2524,7 +2293,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2561,7 +2330,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2606,7 +2375,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2643,7 +2412,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2688,7 +2457,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2725,7 +2494,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2770,7 +2539,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2815,7 +2584,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2852,7 +2621,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2889,7 +2658,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2934,7 +2703,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2971,7 +2740,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3016,7 +2785,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3053,7 +2822,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3098,7 +2867,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3135,7 +2904,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3180,7 +2949,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3217,7 +2986,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3254,7 +3023,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3291,7 +3060,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3336,7 +3105,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3381,7 +3150,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3426,7 +3195,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3471,7 +3240,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3508,7 +3277,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3553,7 +3322,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3590,7 +3359,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3627,7 +3396,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3664,7 +3433,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3709,7 +3478,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3754,7 +3523,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3799,7 +3568,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3836,7 +3605,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3881,7 +3650,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3918,7 +3687,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3955,7 +3724,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3992,7 +3761,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4037,7 +3806,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4082,7 +3851,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4119,7 +3888,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4164,7 +3933,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4201,7 +3970,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4246,7 +4015,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4283,7 +4052,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4320,7 +4089,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4365,7 +4134,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4410,7 +4179,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4447,7 +4216,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4492,7 +4261,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4529,7 +4298,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4566,7 +4335,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4611,7 +4380,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4648,7 +4417,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4693,7 +4462,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4738,7 +4507,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4775,7 +4544,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4820,7 +4589,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4857,7 +4626,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4902,7 +4671,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4947,7 +4716,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4984,7 +4753,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5029,7 +4798,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5066,7 +4835,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5103,7 +4872,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5148,7 +4917,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5185,7 +4954,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5230,7 +4999,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5267,7 +5036,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5304,7 +5073,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5349,7 +5118,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5394,7 +5163,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5431,7 +5200,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5476,7 +5245,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5513,7 +5282,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5550,7 +5319,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5587,7 +5356,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5632,7 +5401,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5677,7 +5446,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5722,7 +5491,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5759,7 +5528,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5804,7 +5573,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5849,7 +5618,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5886,7 +5655,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5931,7 +5700,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5976,7 +5745,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6013,7 +5782,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6050,7 +5819,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6095,7 +5864,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6132,7 +5901,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6177,7 +5946,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6214,7 +5983,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6259,7 +6028,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6296,7 +6065,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6333,7 +6102,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6378,7 +6147,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6415,7 +6184,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6460,7 +6229,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6497,7 +6266,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6542,7 +6311,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6587,7 +6356,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6624,7 +6393,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6669,7 +6438,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6706,7 +6475,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6751,7 +6520,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6788,7 +6557,7 @@
     },
     {
       "Route": "Multiplefileintopdf.bundle.scp.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Multiplefileintopdf.bundle.scp.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Multiplefileintopdf.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6825,7 +6594,7 @@
     },
     {
       "Route": "Multiplefileintopdf.ncv22b933c.bundle.scp.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Multiplefileintopdf.bundle.scp.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Multiplefileintopdf.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6870,7 +6639,7 @@
     },
     {
       "Route": "Multiplefileintopdf.ncv22b933c.styles.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Multiplefileintopdf.styles.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Multiplefileintopdf.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6915,7 +6684,7 @@
     },
     {
       "Route": "Multiplefileintopdf.styles.css",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Multiplefileintopdf.styles.css",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Multiplefileintopdf.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6952,7 +6721,7 @@
     },
     {
       "Route": "pdf/0414090e-9587-44bf-8fa1-b8a806371d52.7h172izflp.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\0414090e-9587-44bf-8fa1-b8a806371d52.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\0414090e-9587-44bf-8fa1-b8a806371d52.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6997,7 +6766,7 @@
     },
     {
       "Route": "pdf/0414090e-9587-44bf-8fa1-b8a806371d52.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\0414090e-9587-44bf-8fa1-b8a806371d52.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\0414090e-9587-44bf-8fa1-b8a806371d52.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7034,7 +6803,7 @@
     },
     {
       "Route": "pdf/0dd00dac-83a4-44fc-80e7-ee4cc9744e40.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\0dd00dac-83a4-44fc-80e7-ee4cc9744e40.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\0dd00dac-83a4-44fc-80e7-ee4cc9744e40.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7071,7 +6840,7 @@
     },
     {
       "Route": "pdf/0dd00dac-83a4-44fc-80e7-ee4cc9744e40.wn8hdzapyn.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\0dd00dac-83a4-44fc-80e7-ee4cc9744e40.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\0dd00dac-83a4-44fc-80e7-ee4cc9744e40.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7116,7 +6885,7 @@
     },
     {
       "Route": "pdf/0ddb4097-5109-4500-ad06-ea8df2fea298.0vbd4jotxj.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\0ddb4097-5109-4500-ad06-ea8df2fea298.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\0ddb4097-5109-4500-ad06-ea8df2fea298.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7161,7 +6930,7 @@
     },
     {
       "Route": "pdf/0ddb4097-5109-4500-ad06-ea8df2fea298.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\0ddb4097-5109-4500-ad06-ea8df2fea298.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\0ddb4097-5109-4500-ad06-ea8df2fea298.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7198,7 +6967,7 @@
     },
     {
       "Route": "pdf/28169ddd-6ad0-4f7f-bdbc-86aef14145b2.famqm24z8z.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\28169ddd-6ad0-4f7f-bdbc-86aef14145b2.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\28169ddd-6ad0-4f7f-bdbc-86aef14145b2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7243,7 +7012,7 @@
     },
     {
       "Route": "pdf/28169ddd-6ad0-4f7f-bdbc-86aef14145b2.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\28169ddd-6ad0-4f7f-bdbc-86aef14145b2.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\28169ddd-6ad0-4f7f-bdbc-86aef14145b2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7280,7 +7049,7 @@
     },
     {
       "Route": "pdf/341a8f6d-4c59-4479-86eb-2148c1b4cc3c.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\341a8f6d-4c59-4479-86eb-2148c1b4cc3c.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\341a8f6d-4c59-4479-86eb-2148c1b4cc3c.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7317,7 +7086,7 @@
     },
     {
       "Route": "pdf/341a8f6d-4c59-4479-86eb-2148c1b4cc3c.qdnnlw8h1v.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\341a8f6d-4c59-4479-86eb-2148c1b4cc3c.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\341a8f6d-4c59-4479-86eb-2148c1b4cc3c.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7362,7 +7131,7 @@
     },
     {
       "Route": "pdf/347de07b-f8c7-4c75-acd2-82e308c386df.j7bigu8o5t.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\347de07b-f8c7-4c75-acd2-82e308c386df.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\347de07b-f8c7-4c75-acd2-82e308c386df.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7407,7 +7176,7 @@
     },
     {
       "Route": "pdf/347de07b-f8c7-4c75-acd2-82e308c386df.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\347de07b-f8c7-4c75-acd2-82e308c386df.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\347de07b-f8c7-4c75-acd2-82e308c386df.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7444,7 +7213,7 @@
     },
     {
       "Route": "pdf/67e0b9f7-fa8e-489b-8f93-f781fc4c2e11.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\67e0b9f7-fa8e-489b-8f93-f781fc4c2e11.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\67e0b9f7-fa8e-489b-8f93-f781fc4c2e11.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7481,7 +7250,7 @@
     },
     {
       "Route": "pdf/67e0b9f7-fa8e-489b-8f93-f781fc4c2e11.ztqz9l1zwm.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\67e0b9f7-fa8e-489b-8f93-f781fc4c2e11.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\67e0b9f7-fa8e-489b-8f93-f781fc4c2e11.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7526,7 +7295,7 @@
     },
     {
       "Route": "pdf/7affe73a-520a-4d57-943c-3f8312ceb600.nsg7d3wzn4.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\7affe73a-520a-4d57-943c-3f8312ceb600.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\7affe73a-520a-4d57-943c-3f8312ceb600.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7571,7 +7340,7 @@
     },
     {
       "Route": "pdf/7affe73a-520a-4d57-943c-3f8312ceb600.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\7affe73a-520a-4d57-943c-3f8312ceb600.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\7affe73a-520a-4d57-943c-3f8312ceb600.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7608,7 +7377,7 @@
     },
     {
       "Route": "pdf/98f2ac97-81bb-4760-8fbc-67f3d702a800.1a0us8v126.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\98f2ac97-81bb-4760-8fbc-67f3d702a800.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\98f2ac97-81bb-4760-8fbc-67f3d702a800.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7653,7 +7422,7 @@
     },
     {
       "Route": "pdf/98f2ac97-81bb-4760-8fbc-67f3d702a800.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\98f2ac97-81bb-4760-8fbc-67f3d702a800.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\98f2ac97-81bb-4760-8fbc-67f3d702a800.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7690,7 +7459,7 @@
     },
     {
       "Route": "pdf/b4056d93-fbdd-4e4e-9f75-21c96ad80403.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\b4056d93-fbdd-4e4e-9f75-21c96ad80403.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\b4056d93-fbdd-4e4e-9f75-21c96ad80403.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7727,7 +7496,7 @@
     },
     {
       "Route": "pdf/b4056d93-fbdd-4e4e-9f75-21c96ad80403.zuacwm558k.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\b4056d93-fbdd-4e4e-9f75-21c96ad80403.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\b4056d93-fbdd-4e4e-9f75-21c96ad80403.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7772,7 +7541,7 @@
     },
     {
       "Route": "pdf/c028670f-0495-4f39-b016-06c4da54d0f7.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\c028670f-0495-4f39-b016-06c4da54d0f7.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\c028670f-0495-4f39-b016-06c4da54d0f7.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7809,7 +7578,7 @@
     },
     {
       "Route": "pdf/c028670f-0495-4f39-b016-06c4da54d0f7.v73y8epgif.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\c028670f-0495-4f39-b016-06c4da54d0f7.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\c028670f-0495-4f39-b016-06c4da54d0f7.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7854,7 +7623,7 @@
     },
     {
       "Route": "pdf/e3067259-0c9e-4e04-8d24-6d15fccb0529.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\e3067259-0c9e-4e04-8d24-6d15fccb0529.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\e3067259-0c9e-4e04-8d24-6d15fccb0529.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7891,7 +7660,7 @@
     },
     {
       "Route": "pdf/e3067259-0c9e-4e04-8d24-6d15fccb0529.tgog21306m.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\e3067259-0c9e-4e04-8d24-6d15fccb0529.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\e3067259-0c9e-4e04-8d24-6d15fccb0529.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7936,7 +7705,7 @@
     },
     {
       "Route": "pdf/f1dc9d33-d0fb-4898-8ea7-465a180eb2cd.emlnlcnfl1.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\f1dc9d33-d0fb-4898-8ea7-465a180eb2cd.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\f1dc9d33-d0fb-4898-8ea7-465a180eb2cd.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7981,7 +7750,7 @@
     },
     {
       "Route": "pdf/f1dc9d33-d0fb-4898-8ea7-465a180eb2cd.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\f1dc9d33-d0fb-4898-8ea7-465a180eb2cd.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\f1dc9d33-d0fb-4898-8ea7-465a180eb2cd.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8018,7 +7787,7 @@
     },
     {
       "Route": "pdf/f7e2a420-1ae2-4696-9aef-6f9fa57f7fe2.08r8jo5upm.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\f7e2a420-1ae2-4696-9aef-6f9fa57f7fe2.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\f7e2a420-1ae2-4696-9aef-6f9fa57f7fe2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8063,7 +7832,7 @@
     },
     {
       "Route": "pdf/f7e2a420-1ae2-4696-9aef-6f9fa57f7fe2.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\f7e2a420-1ae2-4696-9aef-6f9fa57f7fe2.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\f7e2a420-1ae2-4696-9aef-6f9fa57f7fe2.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8100,7 +7869,7 @@
     },
     {
       "Route": "pdf/fe0678bb-9054-4bf7-9394-a30067e9a661.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\fe0678bb-9054-4bf7-9394-a30067e9a661.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\fe0678bb-9054-4bf7-9394-a30067e9a661.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8137,7 +7906,7 @@
     },
     {
       "Route": "pdf/fe0678bb-9054-4bf7-9394-a30067e9a661.ymdq2ux0zv.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\fe0678bb-9054-4bf7-9394-a30067e9a661.pdf",
+      "AssetFile": "D:\\Assignment\\MulitpleFileMerging\\wwwroot\\pdf\\fe0678bb-9054-4bf7-9394-a30067e9a661.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8177,908 +7946,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-dq56J2u+7picL3wyvH7d0+Al9wE12qa3MMBqQFP+Ro0="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/013031a3-d4fe-4636-9e7f-bf0608987c30.1c2262a24y.jpg",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\013031a3-d4fe-4636-9e7f-bf0608987c30.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "68886"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UaaPZGRTKEctmRDPl0luj8+PG42Ms+OanBI7FbsJRr0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 05:19:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1c2262a24y"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/013031a3-d4fe-4636-9e7f-bf0608987c30.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-UaaPZGRTKEctmRDPl0luj8+PG42Ms+OanBI7FbsJRr0="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/013031a3-d4fe-4636-9e7f-bf0608987c30.jpg",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\013031a3-d4fe-4636-9e7f-bf0608987c30.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "68886"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UaaPZGRTKEctmRDPl0luj8+PG42Ms+OanBI7FbsJRr0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 05:19:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UaaPZGRTKEctmRDPl0luj8+PG42Ms+OanBI7FbsJRr0="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/13aba238-1066-420a-8229-25af9c56fa71.3fhc0kacr8.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\13aba238-1066-420a-8229-25af9c56fa71.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1903"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0aw1/FerSkLVt0/hZyyPpzHjhwcoDSJ29Ceqv+Nad4c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 06:22:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3fhc0kacr8"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/13aba238-1066-420a-8229-25af9c56fa71.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0aw1/FerSkLVt0/hZyyPpzHjhwcoDSJ29Ceqv+Nad4c="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/13aba238-1066-420a-8229-25af9c56fa71.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\13aba238-1066-420a-8229-25af9c56fa71.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1903"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0aw1/FerSkLVt0/hZyyPpzHjhwcoDSJ29Ceqv+Nad4c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 06:22:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0aw1/FerSkLVt0/hZyyPpzHjhwcoDSJ29Ceqv+Nad4c="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/1d2ee9cd-4d09-4da5-8fc9-0387bc78bcf7/mytable_merged.0bhz5f0cal.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\1d2ee9cd-4d09-4da5-8fc9-0387bc78bcf7\\mytable_merged.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "718"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XAPS76zQ9Y9TmbguXgt3z2y1gjZklIJSZEDo6bNG7yU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 04:33:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0bhz5f0cal"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/1d2ee9cd-4d09-4da5-8fc9-0387bc78bcf7/mytable_merged.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XAPS76zQ9Y9TmbguXgt3z2y1gjZklIJSZEDo6bNG7yU="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/1d2ee9cd-4d09-4da5-8fc9-0387bc78bcf7/mytable_merged.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\1d2ee9cd-4d09-4da5-8fc9-0387bc78bcf7\\mytable_merged.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "718"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XAPS76zQ9Y9TmbguXgt3z2y1gjZklIJSZEDo6bNG7yU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 04:33:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XAPS76zQ9Y9TmbguXgt3z2y1gjZklIJSZEDo6bNG7yU="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/23a34d2b-b24f-4fa9-9dbd-bdcab00921c0.1c2262a24y.jpg",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\23a34d2b-b24f-4fa9-9dbd-bdcab00921c0.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "68886"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UaaPZGRTKEctmRDPl0luj8+PG42Ms+OanBI7FbsJRr0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 06:21:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1c2262a24y"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/23a34d2b-b24f-4fa9-9dbd-bdcab00921c0.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-UaaPZGRTKEctmRDPl0luj8+PG42Ms+OanBI7FbsJRr0="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/23a34d2b-b24f-4fa9-9dbd-bdcab00921c0.jpg",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\23a34d2b-b24f-4fa9-9dbd-bdcab00921c0.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "68886"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UaaPZGRTKEctmRDPl0luj8+PG42Ms+OanBI7FbsJRr0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 06:21:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UaaPZGRTKEctmRDPl0luj8+PG42Ms+OanBI7FbsJRr0="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/4ed7ca66-9287-4d54-92e6-223ddc88dd21.1c2262a24y.jpg",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\4ed7ca66-9287-4d54-92e6-223ddc88dd21.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "68886"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UaaPZGRTKEctmRDPl0luj8+PG42Ms+OanBI7FbsJRr0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 05:12:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1c2262a24y"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/4ed7ca66-9287-4d54-92e6-223ddc88dd21.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-UaaPZGRTKEctmRDPl0luj8+PG42Ms+OanBI7FbsJRr0="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/4ed7ca66-9287-4d54-92e6-223ddc88dd21.jpg",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\4ed7ca66-9287-4d54-92e6-223ddc88dd21.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "68886"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UaaPZGRTKEctmRDPl0luj8+PG42Ms+OanBI7FbsJRr0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 05:12:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UaaPZGRTKEctmRDPl0luj8+PG42Ms+OanBI7FbsJRr0="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/6660abf9-56b9-473a-8bc0-7623bd495c6b.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\6660abf9-56b9-473a-8bc0-7623bd495c6b.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13825673"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KxJZNNA1rKR+9IfeT1vMDpYEMN0jXmcCWrvNx36gYn0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 06:21:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KxJZNNA1rKR+9IfeT1vMDpYEMN0jXmcCWrvNx36gYn0="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/6660abf9-56b9-473a-8bc0-7623bd495c6b.v79irmwo6k.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\6660abf9-56b9-473a-8bc0-7623bd495c6b.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13825673"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KxJZNNA1rKR+9IfeT1vMDpYEMN0jXmcCWrvNx36gYn0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 06:21:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v79irmwo6k"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/6660abf9-56b9-473a-8bc0-7623bd495c6b.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KxJZNNA1rKR+9IfeT1vMDpYEMN0jXmcCWrvNx36gYn0="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/76ffe46a-a881-43bc-8592-73e726f2b703.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\76ffe46a-a881-43bc-8592-73e726f2b703.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "74571"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HYgz8Su6p3zDT3O83UkUIEJ+Oyz74vJk5Mx756oTBmU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 05:22:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HYgz8Su6p3zDT3O83UkUIEJ+Oyz74vJk5Mx756oTBmU="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/76ffe46a-a881-43bc-8592-73e726f2b703.zcxcofhiwz.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\76ffe46a-a881-43bc-8592-73e726f2b703.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "74571"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HYgz8Su6p3zDT3O83UkUIEJ+Oyz74vJk5Mx756oTBmU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 05:22:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zcxcofhiwz"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/76ffe46a-a881-43bc-8592-73e726f2b703.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HYgz8Su6p3zDT3O83UkUIEJ+Oyz74vJk5Mx756oTBmU="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/87a32ac2-6b7d-4c38-8f9c-84cc8ad50a55/mytable_merged.0bhz5f0cal.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\87a32ac2-6b7d-4c38-8f9c-84cc8ad50a55\\mytable_merged.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "718"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XAPS76zQ9Y9TmbguXgt3z2y1gjZklIJSZEDo6bNG7yU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 04:37:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0bhz5f0cal"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/87a32ac2-6b7d-4c38-8f9c-84cc8ad50a55/mytable_merged.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XAPS76zQ9Y9TmbguXgt3z2y1gjZklIJSZEDo6bNG7yU="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/87a32ac2-6b7d-4c38-8f9c-84cc8ad50a55/mytable_merged.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\87a32ac2-6b7d-4c38-8f9c-84cc8ad50a55\\mytable_merged.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "718"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XAPS76zQ9Y9TmbguXgt3z2y1gjZklIJSZEDo6bNG7yU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 04:37:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XAPS76zQ9Y9TmbguXgt3z2y1gjZklIJSZEDo6bNG7yU="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/8fb5917c-4c9f-4dd4-a2f5-b6b67f7f3a6b.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\8fb5917c-4c9f-4dd4-a2f5-b6b67f7f3a6b.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13825673"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KxJZNNA1rKR+9IfeT1vMDpYEMN0jXmcCWrvNx36gYn0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 06:22:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KxJZNNA1rKR+9IfeT1vMDpYEMN0jXmcCWrvNx36gYn0="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/8fb5917c-4c9f-4dd4-a2f5-b6b67f7f3a6b.v79irmwo6k.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\8fb5917c-4c9f-4dd4-a2f5-b6b67f7f3a6b.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13825673"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KxJZNNA1rKR+9IfeT1vMDpYEMN0jXmcCWrvNx36gYn0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 06:22:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v79irmwo6k"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/8fb5917c-4c9f-4dd4-a2f5-b6b67f7f3a6b.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KxJZNNA1rKR+9IfeT1vMDpYEMN0jXmcCWrvNx36gYn0="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/9d7ed5d7-d409-40a3-9de1-3caf99169a4b/hello_merged.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\9d7ed5d7-d409-40a3-9de1-3caf99169a4b\\hello_merged.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2806"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qPG2rrPVcT5wmqmr9jnvnusutKiwc28V64tJ+cUA4Rw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 04:41:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qPG2rrPVcT5wmqmr9jnvnusutKiwc28V64tJ+cUA4Rw="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/9d7ed5d7-d409-40a3-9de1-3caf99169a4b/hello_merged.sjijxfrs6c.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\9d7ed5d7-d409-40a3-9de1-3caf99169a4b\\hello_merged.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2806"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qPG2rrPVcT5wmqmr9jnvnusutKiwc28V64tJ+cUA4Rw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 04:41:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "sjijxfrs6c"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/9d7ed5d7-d409-40a3-9de1-3caf99169a4b/hello_merged.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qPG2rrPVcT5wmqmr9jnvnusutKiwc28V64tJ+cUA4Rw="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/b9200695-d9fb-4a0f-9f0b-54af5613c735.5til61lncn.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\b9200695-d9fb-4a0f-9f0b-54af5613c735.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "74570"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eczfIDR1mfpr0G3pap7xyDrsn/a/IPJFRxv5R9WHMHw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 05:11:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5til61lncn"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/b9200695-d9fb-4a0f-9f0b-54af5613c735.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eczfIDR1mfpr0G3pap7xyDrsn/a/IPJFRxv5R9WHMHw="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/b9200695-d9fb-4a0f-9f0b-54af5613c735.pdf",
-      "AssetFile": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\b9200695-d9fb-4a0f-9f0b-54af5613c735.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "74570"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eczfIDR1mfpr0G3pap7xyDrsn/a/IPJFRxv5R9WHMHw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 05:11:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-eczfIDR1mfpr0G3pap7xyDrsn/a/IPJFRxv5R9WHMHw="
         }
       ]
     }

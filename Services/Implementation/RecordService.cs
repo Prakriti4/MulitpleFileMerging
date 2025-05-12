@@ -8,6 +8,7 @@ using Multiplefileintopdf.ViewModel;
 using SixLabors.ImageSharp.Formats.Jpeg;
 using SixLabors.ImageSharp.Processing;
 using SixLabors.ImageSharp;
+using SixLabors.ImageSharp.Formats.Gif;
 
 namespace Multiplefileintopdf.Services.Implementation
 {
@@ -113,8 +114,7 @@ namespace Multiplefileintopdf.Services.Implementation
                     using (var document = new Document())
                     {
                         var writer = PdfWriter.GetInstance(document, outputStream);
-                        writer.SetFullCompression();
-                        writer.CompressionLevel = PdfStream.BEST_COMPRESSION;
+
 
                         document.Open();
 
@@ -183,6 +183,9 @@ namespace Multiplefileintopdf.Services.Implementation
                                                  document.PageSize.Height - document.TopMargin - document.BottomMargin);
                                     img.Alignment = Element.ALIGN_CENTER;
                                     document.Add(img);
+
+                                    writer.SetFullCompression();
+                                    writer.CompressionLevel = PdfStream.BEST_COMPRESSION;
                                 }
                                 else
                                 {
