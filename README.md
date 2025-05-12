@@ -25,7 +25,8 @@ This project allows users to **upload multiple files (images and PDFs)** and aut
 
 ## 📷 Screenshot
 
-![App Screenshot](./images/app-screenshot.png) <!-- Replace with actual GitHub-hosted image path -->
+![image](https://github.com/user-attachments/assets/c747e6ee-315f-481f-99b9-8264b110c41f)
+
 
 ---
 
@@ -33,4 +34,4 @@ This project allows users to **upload multiple files (images and PDFs)** and aut
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/multiplefileintopdf.git
+   git clone https://github.com/Prakriti4/MulitpleFileMerging.git
