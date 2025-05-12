@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Multiplefileintopdf.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Multiplefileintopdf.ncv22b933c.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\0414090e-9587-44bf-8fa1-b8a806371d52.pdf",
+      "PackagePath": "staticwebassets\\pdf\\0414090e-9587-44bf-8fa1-b8a806371d52.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\0dd00dac-83a4-44fc-80e7-ee4cc9744e40.pdf",
+      "PackagePath": "staticwebassets\\pdf\\0dd00dac-83a4-44fc-80e7-ee4cc9744e40.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\0ddb4097-5109-4500-ad06-ea8df2fea298.pdf",
+      "PackagePath": "staticwebassets\\pdf\\0ddb4097-5109-4500-ad06-ea8df2fea298.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\28169ddd-6ad0-4f7f-bdbc-86aef14145b2.pdf",
+      "PackagePath": "staticwebassets\\pdf\\28169ddd-6ad0-4f7f-bdbc-86aef14145b2.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\341a8f6d-4c59-4479-86eb-2148c1b4cc3c.pdf",
+      "PackagePath": "staticwebassets\\pdf\\341a8f6d-4c59-4479-86eb-2148c1b4cc3c.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\347de07b-f8c7-4c75-acd2-82e308c386df.pdf",
+      "PackagePath": "staticwebassets\\pdf\\347de07b-f8c7-4c75-acd2-82e308c386df.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\67e0b9f7-fa8e-489b-8f93-f781fc4c2e11.pdf",
+      "PackagePath": "staticwebassets\\pdf\\67e0b9f7-fa8e-489b-8f93-f781fc4c2e11.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\7affe73a-520a-4d57-943c-3f8312ceb600.pdf",
+      "PackagePath": "staticwebassets\\pdf\\7affe73a-520a-4d57-943c-3f8312ceb600.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\98f2ac97-81bb-4760-8fbc-67f3d702a800.pdf",
+      "PackagePath": "staticwebassets\\pdf\\98f2ac97-81bb-4760-8fbc-67f3d702a800.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\b4056d93-fbdd-4e4e-9f75-21c96ad80403.pdf",
+      "PackagePath": "staticwebassets\\pdf\\b4056d93-fbdd-4e4e-9f75-21c96ad80403.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\c028670f-0495-4f39-b016-06c4da54d0f7.pdf",
+      "PackagePath": "staticwebassets\\pdf\\c028670f-0495-4f39-b016-06c4da54d0f7.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\e3067259-0c9e-4e04-8d24-6d15fccb0529.pdf",
+      "PackagePath": "staticwebassets\\pdf\\e3067259-0c9e-4e04-8d24-6d15fccb0529.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\f1dc9d33-d0fb-4898-8ea7-465a180eb2cd.pdf",
+      "PackagePath": "staticwebassets\\pdf\\f1dc9d33-d0fb-4898-8ea7-465a180eb2cd.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\f7e2a420-1ae2-4696-9aef-6f9fa57f7fe2.pdf",
+      "PackagePath": "staticwebassets\\pdf\\f7e2a420-1ae2-4696-9aef-6f9fa57f7fe2.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\pdf\\fe0678bb-9054-4bf7-9394-a30067e9a661.pdf",
+      "PackagePath": "staticwebassets\\pdf\\fe0678bb-9054-4bf7-9394-a30067e9a661.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\013031a3-d4fe-4636-9e7f-bf0608987c30.jpg",
+      "PackagePath": "staticwebassets\\uploads\\013031a3-d4fe-4636-9e7f-bf0608987c30.jpg"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\13aba238-1066-420a-8229-25af9c56fa71.pdf",
+      "PackagePath": "staticwebassets\\uploads\\13aba238-1066-420a-8229-25af9c56fa71.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\1d2ee9cd-4d09-4da5-8fc9-0387bc78bcf7\\mytable_merged.pdf",
+      "PackagePath": "staticwebassets\\uploads\\1d2ee9cd-4d09-4da5-8fc9-0387bc78bcf7\\mytable_merged.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\23a34d2b-b24f-4fa9-9dbd-bdcab00921c0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\23a34d2b-b24f-4fa9-9dbd-bdcab00921c0.jpg"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\4ed7ca66-9287-4d54-92e6-223ddc88dd21.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4ed7ca66-9287-4d54-92e6-223ddc88dd21.jpg"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\6660abf9-56b9-473a-8bc0-7623bd495c6b.pdf",
+      "PackagePath": "staticwebassets\\uploads\\6660abf9-56b9-473a-8bc0-7623bd495c6b.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\76ffe46a-a881-43bc-8592-73e726f2b703.pdf",
+      "PackagePath": "staticwebassets\\uploads\\76ffe46a-a881-43bc-8592-73e726f2b703.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\87a32ac2-6b7d-4c38-8f9c-84cc8ad50a55\\mytable_merged.pdf",
+      "PackagePath": "staticwebassets\\uploads\\87a32ac2-6b7d-4c38-8f9c-84cc8ad50a55\\mytable_merged.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\8fb5917c-4c9f-4dd4-a2f5-b6b67f7f3a6b.pdf",
+      "PackagePath": "staticwebassets\\uploads\\8fb5917c-4c9f-4dd4-a2f5-b6b67f7f3a6b.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\9d7ed5d7-d409-40a3-9de1-3caf99169a4b\\hello_merged.pdf",
+      "PackagePath": "staticwebassets\\uploads\\9d7ed5d7-d409-40a3-9de1-3caf99169a4b\\hello_merged.pdf"
+    },
+    {
+      "Id": "D:\\Assignment\\Multiplefileintopdf\\wwwroot\\uploads\\b9200695-d9fb-4a0f-9f0b-54af5613c735.pdf",
+      "PackagePath": "staticwebassets\\uploads\\b9200695-d9fb-4a0f-9f0b-54af5613c735.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Multiplefileintopdf.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Multiplefileintopdf.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Multiplefileintopdf.props",
+      "PackagePath": "build\\Multiplefileintopdf.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Multiplefileintopdf.props",
+      "PackagePath": "buildMultiTargeting\\Multiplefileintopdf.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Multiplefileintopdf.props",
+      "PackagePath": "buildTransitive\\Multiplefileintopdf.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

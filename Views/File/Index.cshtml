@@ -1,0 +1,37 @@
+﻿@model IList<Multiplefileintopdf.ViewModel.GetRecordVM>
+
+@{
+    ViewBag.Title = "Records";
+}
+
+<h2>Records</h2>
+
+<form asp-action="DownloadMergedPdf" asp-controller="File" method="post">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Document Name</th>
+                <th>Download Individually</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.DocumentName)</td>
+                    <td>
+                        <a asp-action="DownloadFile"
+                           asp-controller="File"
+                           asp-route-fileUrl="@item.FileUrl"
+                           class="btn btn-sm btn-success" target="_blank">
+                            Download
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</form>
+
+@Html.ActionLink("Create", "Create", null, new { @class = "btn btn-lg btn-primary" })

@@ -1,0 +1,79 @@
+﻿@model Multiplefileintopdf.ViewModel.CreateRecordVM
+
+@{
+    ViewBag.Title = "Create Record";
+}
+
+<h2>Create Record</h2>
+
+@using (Html.BeginForm("Create", "File", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.DocumentName)
+        @Html.TextBoxFor(model => model.DocumentName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.DocumentName, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <label>Upload Files</label>
+        <div id="fileInputs">
+            <!-- First file input row -->
+            <div class="input-group mb-2">
+                <input type="file" name="files" class="form-control" />
+                <button type="button" class="btn btn-sm btn-primary" onclick="addFileInput(this)">+</button>
+            </div>
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-success mt-3">Submit</button>
+}
+
+@Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary mt-2" })
+
+@section Scripts {
+    <script>
+        function addFileInput(btn) {
+            // Disable the previous "+" button
+            btn.disabled = true;
+
+            var fileInputs = document.getElementById("fileInputs");
+
+            // Create new input group
+            var div = document.createElement("div");
+            div.className = "input-group mb-2";
+
+            var input = document.createElement("input");
+            input.type = "file";
+            input.name = "files";
+            input.className = "form-control";
+
+            var addBtn = document.createElement("button");
+            addBtn.type = "button";
+            addBtn.className = "btn btn-sm btn-primary";
+            addBtn.textContent = "+";
+            addBtn.onclick = function () { addFileInput(addBtn); };
+
+            var removeBtn = document.createElement("button");
+            removeBtn.type = "button";
+            removeBtn.className = "btn btn-sm btn-danger ms-1";
+            removeBtn.textContent = "-";
+            removeBtn.onclick = function () {
+                div.remove();
+
+                // If the removed row had the "+" button, make the last row's "+" active
+                const allGroups = fileInputs.querySelectorAll(".input-group");
+                if (allGroups.length > 0) {
+                    const lastGroup = allGroups[allGroups.length - 1];
+                    const plusBtn = lastGroup.querySelector("button.btn-primary");
+                    if (plusBtn) plusBtn.disabled = false;
+                }
+            };
+
+            div.appendChild(input);
+            div.appendChild(addBtn);
+            div.appendChild(removeBtn);
+
+            fileInputs.appendChild(div);
+        }
+    </script>
+}
